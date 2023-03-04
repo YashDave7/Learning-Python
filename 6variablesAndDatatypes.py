@@ -1,4 +1,4 @@
-# VARAIBLES are like containers which can hold data.
+# VARIABLES are like containers which can hold data.
 a = 69
 b = "Yash"
 c = True
